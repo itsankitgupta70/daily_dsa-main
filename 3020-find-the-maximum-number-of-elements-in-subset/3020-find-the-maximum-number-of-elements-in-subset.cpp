@@ -1,18 +1,18 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        unordered_map<long long, int> count;
+        unordered_map<long long, int> freq;
         for (auto& x : nums) {
-            count[x]++;
+            freq[x]++;
         }
 
         int ans = 1;
 
-        if (count.count(1)) {
-            ans = max(ans, count[1] % 2 ? count[1] : count[1] - 1);
+        if (freq.count(1)) {
+            ans = max(ans, freq[1] % 2 ? freq[1] : freq[1] - 1);
         }
 
-        for (auto& [start, _] : count) {
+        for (auto& [start, _] : freq) {
             if (start == 1) {
                 continue;
             }
@@ -20,12 +20,12 @@ public:
             int len = 0;
 
             while (true) {
-                auto it = count.find(curr);
+                auto it = freq.find(curr);
 
-                if (it != count.end() && it->second >= 2) {
+                if (it != freq.end() && it->second >= 2) {
                     len += 2;
                     curr *= curr;
-                } else if (it != count.end() && it->second >= 1) {
+                } else if (it != freq.end() && it->second >= 1) {
                     len++;
                     break;
                 } else {
