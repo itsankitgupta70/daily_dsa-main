@@ -45,6 +45,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2399-check-distances-between-same-letters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2399-check-distances-between-same-letters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3285-find-indices-of-stable-mountains](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3285-find-indices-of-stable-mountains) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
