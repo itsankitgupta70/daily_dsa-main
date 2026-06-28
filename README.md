@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
