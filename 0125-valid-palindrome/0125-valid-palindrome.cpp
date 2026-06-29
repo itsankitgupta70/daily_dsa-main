@@ -11,7 +11,6 @@ public:
 
             while (l < r && !isalnum(s[r]))
                 r--;
-
             if (tolower(s[l]) != tolower(s[r]))
                 return false;
 
