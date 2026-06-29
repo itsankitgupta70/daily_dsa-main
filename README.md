@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
