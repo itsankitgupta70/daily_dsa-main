@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1189-maximum-number-of-balloons) |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
