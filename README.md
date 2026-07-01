@@ -122,4 +122,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
