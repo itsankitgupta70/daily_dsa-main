@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
@@ -136,5 +137,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
