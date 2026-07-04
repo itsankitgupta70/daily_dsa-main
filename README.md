@@ -34,6 +34,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2399-check-distances-between-same-letters) |
+| [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0125-valid-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
+| [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
