@@ -27,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0345-reverse-vowels-of-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1189-maximum-number-of-balloons) |
@@ -120,6 +121,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0345-reverse-vowels-of-a-string) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
 | [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
 ## String Matching
