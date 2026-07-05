@@ -31,6 +31,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -149,6 +150,7 @@
 | [0503-next-greater-element-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
