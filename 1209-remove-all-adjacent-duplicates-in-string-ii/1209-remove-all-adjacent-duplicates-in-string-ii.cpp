@@ -3,7 +3,7 @@ public:
     string removeDuplicates(string s, int k) {
         vector<pair<char, int>> st;
 
-        for (char c : s) {
+        for (char& c : s) {
 
             if (!st.empty() && st.back().first == c) {
                 st.back().second++;
