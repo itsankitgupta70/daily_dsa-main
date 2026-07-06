@@ -34,6 +34,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2000-reverse-prefix-of-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2399-check-distances-between-same-letters) |
 | [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
@@ -126,6 +127,7 @@
 | [0344-reverse-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0345-reverse-vowels-of-a-string) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
+| [2000-reverse-prefix-of-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
@@ -151,6 +153,7 @@
 | [0739-daily-temperatures](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
