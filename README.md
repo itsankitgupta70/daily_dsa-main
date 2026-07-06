@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -28,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1189-maximum-number-of-balloons) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
@@ -161,4 +164,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
