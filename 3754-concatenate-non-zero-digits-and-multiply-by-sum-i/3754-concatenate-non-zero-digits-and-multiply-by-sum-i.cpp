@@ -1,20 +1,18 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        string s = to_string(n);
-
-        string temp = "";
-        long long sum = 0;
-
-        for (char c : s) {
-            if (c != '0') {
-                temp += c;
-                sum += c - '0';
-            }
+        long long x = 0;
+        int place = 1;
+        int sum_digits = 0;
+        while (n > 0) {
+            int digit = n % 10;
+            n /= 10;
+            if (digit == 0)
+                continue;
+            x = digit * place + x;
+            sum_digits += digit;
+            place *= 10;
         }
-
-        long long x = (temp.empty()) ? 0 : stoll(temp);
-
-        return x * sum;
+        return x * sum_digits;
     }
 };
