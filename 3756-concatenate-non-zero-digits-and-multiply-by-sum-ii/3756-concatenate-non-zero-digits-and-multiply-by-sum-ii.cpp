@@ -1,42 +1,46 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
+    static constexpr int MOD = 1000000007;
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
         int n = s.size();
-        vector<int> cnt(n + 1, 0);      // non zero ka count
-        vector<long long> preNum(1, 0); // concatinate number
-        vector<int> preSum(1, 0);       // pre sum
+
+        vector<int> nonZeroCnt(n + 1, 0);     // non zero count karna hai
+        vector<long long> concatPrefix(1, 0); // concatinated number
+        vector<int> digitSumPrefix(1, 0);     // digits ke sum
+        vector<long long> pow10(
+            1, 1); // pow of 10 ko bhi save kar lo taki baar na calc ho
 
         for (int i = 0; i < n; i++) {
-            cnt[i + 1] = cnt[i];
-            if (s[i] != '0') {
-                int digit = s[i] - '0';
-                cnt[i + 1]++;
-                preNum.push_back((preNum.back() * 10 + digit) % MOD);
-                preSum.push_back(preSum.back() + digit);
+            nonZeroCnt[i + 1] = nonZeroCnt[i];
+
+            int digit = s[i] - '0';
+
+            if (digit) {
+                nonZeroCnt[i + 1]++;
+
+                concatPrefix.push_back((concatPrefix.back() * 10 + digit) % MOD);
+
+                digitSumPrefix.push_back(digitSumPrefix.back() + digit);
+
+                pow10.push_back(pow10.back() * 10 % MOD);
             }
         }
 
-        //  power of 10 har place ke liye bhi calculate kar lo
-        int m = preNum.size();
-        vector<long long> powOf10(m, 1);
-        for (int i = 1; i < m; i++) {
-            powOf10[i] = ((powOf10[i - 1] * 10) % MOD);
-        }
-
         vector<int> ans;
-        for (auto& q : queries) {
-            int l = q[0];
-            int r = q[1];
+        ans.reserve(queries.size());
 
-            int left = cnt[l];  // left ke sare zero ka count
-            int right = cnt[r+1]; // right me last kaha tak dekhna hai
+        for (const auto& q : queries) {
+            int left = nonZeroCnt[q[0]];
+            int right = nonZeroCnt[q[1] + 1];
 
-            int len = right - left;
-            long long x = (preNum[right] - (preNum[left] * powOf10[len]) % MOD + MOD) % MOD;
-            long long sum = preSum[right] - preSum[left];
+            long long x =
+                (concatPrefix[right] - (concatPrefix[left] * pow10[right - left]) % MOD + MOD) % MOD;
+
+            long long sum = digitSumPrefix[right] - digitSumPrefix[left];
+
             ans.push_back((x * sum) % MOD);
         }
+
         return ans;
     }
 };
