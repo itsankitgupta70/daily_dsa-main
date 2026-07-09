@@ -34,6 +34,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0125-valid-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0392-is-subsequence) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
 | [2000-reverse-prefix-of-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
