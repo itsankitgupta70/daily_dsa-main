@@ -85,6 +85,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0050-powx-n) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
+| [2769-find-the-maximum-achievable-number](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2769-find-the-maximum-achievable-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
