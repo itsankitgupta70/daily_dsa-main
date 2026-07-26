@@ -90,6 +90,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2769-find-the-maximum-achievable-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -103,6 +104,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
