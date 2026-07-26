@@ -68,6 +68,7 @@
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0739-daily-temperatures) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -98,6 +100,7 @@
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
