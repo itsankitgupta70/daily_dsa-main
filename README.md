@@ -73,6 +73,7 @@
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -103,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
