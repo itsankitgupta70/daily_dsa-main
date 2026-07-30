@@ -45,6 +45,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2000-reverse-prefix-of-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2399-check-distances-between-same-letters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
 ## Counting
@@ -91,6 +92,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0409-longest-palindrome) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
