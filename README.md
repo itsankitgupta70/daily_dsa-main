@@ -76,6 +76,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
