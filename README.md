@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
@@ -158,6 +159,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0852-peak-index-in-a-mountain-array) |
