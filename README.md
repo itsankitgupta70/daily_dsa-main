@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -163,6 +164,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
