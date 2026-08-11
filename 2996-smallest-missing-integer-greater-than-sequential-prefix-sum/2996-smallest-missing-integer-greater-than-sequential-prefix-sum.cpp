@@ -4,19 +4,16 @@ public:
         int ans = nums[0];
 
         for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] != nums[i - 1] + 1) {
+            if (nums[i] != nums[i - 1] + 1)
                 break;
-            } else {
-                ans += nums[i];
-            }
+
+            ans += nums[i];
         }
-        while (true) {
-            auto it = find(nums.begin(), nums.end(), ans);
-            if (it != nums.end()) {
-                ans++;
-            } else {
-                break;
-            }
+
+        unordered_set<int> st(nums.begin(), nums.end());
+
+        while (st.count(ans)) {
+            ans++;
         }
         return ans;
     }
