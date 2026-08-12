@@ -6,14 +6,23 @@ public:
         int n = nums.size();
         int i = 0;
         int j = 0;
+        int cp = 0;
         while (j < n) {
             freq[nums[j]]++;
 
-            while (i < j && freq[nums[j]] > k) {
+            if (freq[nums[j]] == k + 1) {
+                cp++;
+            }
+            if (cp > 0) {
                 freq[nums[i]]--;
+                if (freq[nums[i]] == k) {
+                    cp--;
+                }
                 i++;
             }
-            result = max(result, j - i + 1);
+            if (cp == 0) {
+                result = max(result, j - i + 1);
+            }
             j++;
         }
         return result;
