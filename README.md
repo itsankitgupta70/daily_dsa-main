@@ -24,6 +24,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -51,6 +52,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2399-check-distances-between-same-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
 ## Counting
@@ -200,6 +202,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
 | ------- |
