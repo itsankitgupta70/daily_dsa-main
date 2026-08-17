@@ -4,11 +4,7 @@ public:
         int actualHours = 0;
 
         for (int& pile : piles) {
-            actualHours += pile / mid;
-
-            if (pile % mid != 0) {
-                actualHours++;
-            }
+            actualHours += pile / mid + (pile % mid != 0);
             if (actualHours > h)
                 return false;
         }
