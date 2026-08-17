@@ -9,8 +9,10 @@ public:
             if (pile % mid != 0) {
                 actualHours++;
             }
+            if (actualHours > h)
+                return false;
         }
-        return actualHours <= h;
+        return true;
     }
 
     int minEatingSpeed(vector<int>& piles, int h) {
