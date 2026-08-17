@@ -85,6 +85,7 @@
 | [0704-binary-search](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0875-koko-eating-bananas) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
@@ -176,6 +177,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
