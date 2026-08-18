@@ -4,11 +4,9 @@ public:
         int ans = -1;
         int n = nums.size();
         unordered_map<int, int> mp;
-
         for (int x : nums) {
             mp[x]++;
         }
-
         if (k == 1) {
             for (auto [x, freq] : mp) {
                 if (freq == 1) {
