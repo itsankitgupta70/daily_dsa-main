@@ -81,6 +81,7 @@
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -178,6 +180,7 @@
 | [0074-search-a-2d-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -260,4 +263,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
