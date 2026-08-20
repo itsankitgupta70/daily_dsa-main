@@ -1,26 +1,29 @@
 class Solution {
 public:
-    int countS(int m, int n, int mid) {
-        int count = 0;
-
-        for (int col = 1; col <= n; col++) {
-            count += min(m, mid / col);
-        }
-
-        return count;
-    }
     int findKthNumber(int m, int n, int k) {
+
+        if (m > n)
+            swap(m, n);
+
         int low = 1;
         int high = m * n;
+
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            int ans = countS(m, n, mid);
-            if (ans < k) {
+            int count = 0;
+
+            for (int i = 1; i <= m; i++) {
+                count += min(n, mid / i);
+            }
+
+            if (count < k) {
                 low = mid + 1;
-            } else {
+            }
+            else {
                 high = mid - 1;
             }
         }
+
         return low;
     }
 };
