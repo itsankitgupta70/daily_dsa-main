@@ -1,10 +1,9 @@
 class Solution {
 public:
-    typedef pair<int, string> p;
+    typedef pair<int, string> P;
 
-    class comp {
-    public:
-        bool operator()(const p& a, const p& b) {
+    struct comp {
+        bool operator()(const P& a, const P& b) {
             if (a.first != b.first)
                 return a.first > b.first;
 
@@ -13,34 +12,29 @@ public:
     };
 
     vector<string> topKFrequent(vector<string>& words, int k) {
-        unordered_map<string, int> mp;
+        unordered_map<string, int> freq;
 
-        for (auto& word : words)
-            mp[word]++;
+        for (string& word : words)
+            freq[word]++;
 
-        priority_queue<p, vector<p>, comp> pq;
+        priority_queue<P, vector<P>, comp> pq;
 
-        for (auto& it : mp) {
-            if (pq.size() < k) {
-                pq.push({it.second, it.first});
-            }
-            else if (pq.top().first < it.second ||
-                     (pq.top().first == it.second &&
-                      pq.top().second > it.first)) {
+        for (auto& [word, count] : freq) {
+            pq.push({count, word});
+
+            if (pq.size() > k)
                 pq.pop();
-                pq.push({it.second, it.first});
-            }
         }
 
-        vector<string> res;
+        vector<string> ans;
 
         while (!pq.empty()) {
-            res.push_back(pq.top().second);
+            ans.push_back(pq.top().second);
             pq.pop();
         }
 
-        reverse(res.begin(), res.end());
+        reverse(ans.begin(), ans.end());
 
-        return res;
+        return ans;
     }
 };
