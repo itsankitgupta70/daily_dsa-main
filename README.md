@@ -81,6 +81,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -270,6 +273,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Ternary Search
@@ -282,4 +286,8 @@
 | [0074-search-a-2d-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
