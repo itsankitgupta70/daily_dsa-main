@@ -1,13 +1,16 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int> st(nums.begin(), nums.end());
+        bool present[101] = {};
 
-        for (int i = 1; ; i++) {
-            int x = k * i;
+        for (int num : nums)
+            present[num] = true;
 
-            if (st.find(x) == st.end())
+        for (int x = k; x <= 100; x += k) {
+            if (!present[x])
                 return x;
         }
+
+        return ((100 / k) + 1) * k;
     }
 };
