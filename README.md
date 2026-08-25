@@ -115,6 +115,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -130,6 +131,7 @@
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -290,6 +293,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Ternary Search
 |  |
 | ------- |
