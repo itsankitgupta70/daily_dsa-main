@@ -112,6 +112,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2399-check-distances-between-same-letters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2399-check-distances-between-same-letters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -153,6 +154,7 @@
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2974-minimum-number-game](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3536-maximum-product-of-two-digits) |
@@ -282,6 +284,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -293,6 +296,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Ternary Search
 |  |
