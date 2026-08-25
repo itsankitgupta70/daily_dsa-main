@@ -1,25 +1,27 @@
 class Solution {
 public:
-    typedef pair<int, int> p;
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        priority_queue<p, vector<p>, greater<p>> pq;
-        int idx = 0;
-        for (int& num : nums) {
-            pq.push({num, idx});
-            idx++;
-        }
-        for (int i = 0; i < k; i++) {
-            int x = pq.top().first;
-            int y = pq.top().second;
+        using P = pair<int, int>;
+
+        priority_queue<P, vector<P>, greater<P>> pq;
+
+        for (int i = 0; i < nums.size(); i++)
+            pq.push({nums[i], i});
+
+        while (k--) {
+            auto [value, index] = pq.top();
             pq.pop();
-            x *= multiplier;
-            pq.push({x, y});
+
+            pq.push({value * multiplier, index});
         }
-        vector<int> ans(nums.size());
+
         while (!pq.empty()) {
-            ans[pq.top().second] = pq.top().first;
+            auto [value, index] = pq.top();
             pq.pop();
+
+            nums[index] = value;
         }
-        return ans;
+
+        return nums;
     }
 };
