@@ -106,6 +106,7 @@
 | [0875-koko-eating-bananas](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -306,6 +307,7 @@
 | [0692-top-k-frequent-words](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
