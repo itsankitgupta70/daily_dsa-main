@@ -4,6 +4,7 @@ public:
                              vector<int>& capital) {
         int n = profits.size();
         vector<pair<int, int>> proj;
+        proj.reserve(n);
         for (int i = 0; i < n; i++) {
             proj.push_back({capital[i], profits[i]});
         }
