@@ -2,29 +2,27 @@ class Solution {
 public:
     int scheduleCourse(vector<vector<int>>& courses) {
 
-        // Earliest deadlines first
         sort(courses.begin(), courses.end(),
-             [](const vector<int>& a, const vector<int>& b) {
+             [](const auto& a, const auto& b) {
                  return a[1] < b[1];
              });
 
-        priority_queue<int> pq;
+        priority_queue<int> maxHeap;
+        int time = 0;
 
-        int total = 0;
-
-        for (auto& course : courses) {
+        for (const auto& course : courses) {
             int duration = course[0];
             int deadline = course[1];
 
-            pq.push(duration);
-            total += duration;
+            time += duration;
+            maxHeap.push(duration);
 
-            if (total > deadline) {
-                total -= pq.top();
-                pq.pop();
+            if (time > deadline) {
+                time -= maxHeap.top();
+                maxHeap.pop();
             }
         }
 
-        return pq.size();
+        return maxHeap.size();
     }
 };
