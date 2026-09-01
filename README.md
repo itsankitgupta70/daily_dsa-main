@@ -96,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
@@ -155,6 +156,7 @@
 | [0242-valid-anagram](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0767-reorganize-string) |
@@ -203,6 +205,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -304,6 +307,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0973-k-closest-points-to-origin) |
