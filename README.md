@@ -90,6 +90,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0973-k-closest-points-to-origin) |
@@ -206,6 +208,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -301,6 +304,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -358,4 +362,16 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0973-k-closest-points-to-origin) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
