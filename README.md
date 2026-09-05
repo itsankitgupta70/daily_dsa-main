@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0240-search-a-2d-matrix-ii) |
@@ -198,6 +199,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0092-reverse-linked-list-ii) |
 ## Number Theory
 |  |
@@ -322,6 +325,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -391,4 +395,8 @@
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0672-bulb-switcher-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
