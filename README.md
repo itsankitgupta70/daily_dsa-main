@@ -142,6 +142,7 @@
 | [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0672-bulb-switcher-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0672-bulb-switcher-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2769-find-the-maximum-achievable-number) |
@@ -376,4 +377,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0672-bulb-switcher-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0672-bulb-switcher-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
