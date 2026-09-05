@@ -228,6 +228,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
@@ -303,6 +304,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/0092-reverse-linked-list-ii) |
 ## Number Theory
 |  |
