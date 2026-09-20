@@ -63,6 +63,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3794-reverse-string-prefix) |
 ## Counting
@@ -331,6 +332,7 @@
 | [2974-minimum-number-game](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsankitgupta70/daily_dsa-main/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
